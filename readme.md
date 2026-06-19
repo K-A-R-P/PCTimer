@@ -24,7 +24,7 @@
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/your-username/sleep-timer.git
+git clone https://github.com/K-A-R-P/PCTimer.git
 ```
 
 ### Установка зависимостей
